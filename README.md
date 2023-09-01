@@ -2,5 +2,5 @@
 
  - Topic
    
-   * Tutorial: Tic-Tac-Toe ,Setup for the tutorial.
+   * Overview ,Passing data through props.
 
