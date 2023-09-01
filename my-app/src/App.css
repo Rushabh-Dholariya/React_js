@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+main {
+  height: 100vh;
+  display: grid;
+  place-items: center;
 }
+
+button {
+  background-color: rgb(129, 141, 152);
+  border: none;
+  height: 2rem;
+  width: 2rem;
+}
+
+.row {
+  display: flex;
+}
+
+.row div {
+  height: 3rem;
+  width: 3rem;
+}
+
+
